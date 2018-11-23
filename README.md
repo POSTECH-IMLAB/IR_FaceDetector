@@ -14,7 +14,7 @@ Testing with videos:
 test.exe <input_video> <result_file_name>
 
 testing with images:
-test.exe images
+test.exe images <in_folders> <out_folders>
 
 # Related Papers
 Yoon, Jongmin, and Daijin Kim. "An accurate and real-time multi-view face detector using ORFs and doubly domain-partitioning classifier." Journal of Real-Time Image Processing: 1-16.
